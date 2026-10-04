@@ -1,6 +1,12 @@
 # Employee Management System
 This is a simple web application for managing employee details in an organization. It provides basic CRUD (Create, Read, Update, Delete) operations for employees, as well as several complex queries.
 
+Front end: [Employee-Management-System-UI](https://github.com/sriharish252/Employee-Management-System-UI).
+
+## About this project
+
+A two-person team project built with Vignesh Somasundaram. We pair-programmed most of it together on one machine, so the commit history sits largely under one account; I contributed across the whole project, from design to implementation.
+
 # Technologies Used
 * Frontend: ReactJS, HTML/CSS
 * Backend: Spring Boot, Java
